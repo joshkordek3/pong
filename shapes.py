@@ -8,4 +8,3 @@ class Rectangle(Turtle):
         self.color(color)
         self.shape('square')
         self.shapesize(stretch_wid=(height / 20), stretch_len=(width / 20))
-
